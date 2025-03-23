@@ -35,7 +35,7 @@ Beyond development, I enjoy writing insightful tech blogs, breaking down complex
 
 ------
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="TPS" width="60" height="60"/>&nbsp;
@@ -75,7 +75,7 @@ Beyond development, I enjoy writing insightful tech blogs, breaking down complex
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCODE" **alt="XC" width="60" height="60"/>
 </div>
 
-### 🌐 I've contributed to:
+## 🌐 🤝 I've contributed to:
 
 - Facebook/React Native Website - The site and docs for React Native & The React Native website and docs
   - [Linking.md](https://github.com/facebook/react-native-website/pull/3139)
@@ -91,7 +91,7 @@ Beyond development, I enjoy writing insightful tech blogs, breaking down complex
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mitchiemt11&theme=dark&background=000000)](https://git.io/streak-stats)
 
