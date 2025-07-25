@@ -29,7 +29,7 @@
 
 
 I'm a software developer focused on building mobile and web applications. 
-Currently, I’m expanding my expertise in Java while vibing with Generative AI to push the boundaries of what’s possible in tech.
+Currently, I’m expanding my expertise in Java, Kotlin, and Spring Boot while exploring Generative AI to push the boundaries of what’s possible in tech.
 
 Beyond development, I enjoy writing insightful tech blogs, breaking down complex topics into engaging content for the community. Outside of work, you’ll often find me immersed in gaming, where I appreciate the creativity and problem-solving that fuel both my hobbies and my career.
 
